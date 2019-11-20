@@ -4,4 +4,4 @@ A mixer written in Elm
 
 This is the very beginning.
 
-It's based on https://github.com/FrankelJb/elm-media
+The `media/` folder comes from https://github.com/FrankelJb/elm-media and is the main library used.
